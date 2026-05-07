@@ -6,3 +6,6 @@ The analysis focuses on:
 - Most common standardized update categories overall
 - Most common standardized update categories by year
 - Update frequency and data quality patterns
+
+Variables: 
+- "app_verisons.csv" = csv of the excel spreadsheet that contains the dataset. 
